@@ -1,0 +1,2 @@
+This course taught about reducing overfitting through regularization and drop out algorithms. Plus, it taught me several optimization algorithms to improve the convergence 
+speed of my deep learning models.
